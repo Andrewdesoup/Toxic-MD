@@ -5,7 +5,7 @@ const chalk = require('chalk')
 global.ownernomer = "233500850221"
 global.ownername = "🃏Andrew🃏"
 global.ytname = "YT: Resonex"
-global.socialm = "GitHub: Joker-Reincarnated"
+global.socialm = "GitHub: Andrewdesoup"
     global.location = "Ghana, Accra,"
 
 global.ownernumber = '233500850221'  //creator number
@@ -18,7 +18,7 @@ global.author = '🃏Andrew🃏 \n\nContact: +233500850221'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "🃏Joker🃏"
+global.wm = "🃏Andrew🃏"
 
 //theme link
 global.link = 'https://chat.whatsapp.com/Lfdo2Q3RhM2GVAmgNXA1dc'
@@ -40,7 +40,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v2'
 
 //text bug
 global.xbugtex = {
